@@ -49,9 +49,9 @@
 <p align="center">
 개발 기록 벨로그 : https://velog.io/@mongsukim <br/>
 개발 기록 티스토리 : https://designerkhs.tistory.com/ <br/>
-[![HitCount](https://hits.dwyl.com/mongsukim/mongsukim.svg?style=flat)](http://hits.dwyl.com/mongsukim/mongsukim)
-</p>
- 
+ </p>
+   [![HitCount](https://hits.dwyl.com/mongsukim/mongsukim.svg?style=flat&show=unique)](http://hits.dwyl.com/mongsukim/mongsukim)
+
 
  
 
